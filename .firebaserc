@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "fxcalandretirementplan"
+  },
+  "targets": {
+    "fxcalandretirementplan": {
+      "hosting": {
+        "fxcalandretirementplan": [
+          "fxcalandretirementplan"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
