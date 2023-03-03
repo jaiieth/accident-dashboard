@@ -2,12 +2,12 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import * as serviceWorker from './serviceWorker';
-import AppCalculator from "./Calculator/AppCalculator";
+import AppDashBoard from "./Dashboard/AppDashBoard";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <AppCalculator />
+    <AppDashBoard />
   </React.StrictMode>
 );
 

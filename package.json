@@ -29,7 +29,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy:firebase": "gcloud config set project fxcalandretirementplan && npx firebase deploy --only hosting:fxcalandretirementplan",
+    "deploy:firebase": "gcloud config set project sprinttech-earth && npx firebase deploy --only hosting:accident-map-dashboard",
     "build:firebase": "yarn run build && yarn run deploy:firebase"
   },
   "eslintConfig": {

@@ -1,12 +1,12 @@
 {
   "projects": {
-    "default": "fxcalandretirementplan"
+    "default": "sprinttech-earth"
   },
   "targets": {
-    "fxcalandretirementplan": {
+    "sprinttech-earth": {
       "hosting": {
-        "fxcalandretirementplan": [
-          "fxcalandretirementplan"
+        "accident-map-dashboard": [
+          "accident-map-dashboard"
         ]
       }
     }
